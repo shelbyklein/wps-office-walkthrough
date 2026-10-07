@@ -13,3 +13,5 @@ Lounge sofas face the coffee tables and are proportioned to the Cesto seating.
 Chapter clicks begin camera travel immediately. Default tour speed is 1.2x, with an adjustable, persistent slider. Lounge furniture rests on the measured rug surface.
 
 Click furniture to inspect an enlarged 3D model over the faded office. Includes rotation, keyboard selection, Escape to close and exact tour-position restoration. Cesto links to Studio TK; other pieces are labeled conceptual.
+
+When the tour is idle, the camera gently looks toward the mouse. Navigation recenters it; still-view and reduced-motion settings disable the effect.

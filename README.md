@@ -17,3 +17,5 @@ Click furniture to inspect an enlarged 3D model over the faded office. Includes 
 When the tour is idle, the camera gently looks toward the mouse. Navigation recenters it; still-view and reduced-motion settings disable the effect.
 
 Room text transitions: outgoing copy fades 36px left over 260ms; incoming copy fades in from 28px right over 480ms. Room labels follow the same transition; speed controls stay steady. Rapid chapter changes cancel stale updates. Reduced-motion preference uses an immediate text replacement.
+
+Tour speed controls are collapsed by default behind an accessible sliders icon beside the room label. Click toggles the panel; outside click and Escape dismiss it. Existing speed preference and still-view behavior are preserved.

@@ -10,7 +10,7 @@ Three.js 0.160.1 is MIT licensed; see THREE-LICENSE.txt. WPS branding belongs to
 
 Lounge sofas face the coffee tables and are proportioned to the Cesto seating.
 
-Chapter clicks begin camera travel immediately. Default tour speed is 1.2x, with an adjustable, persistent slider. Lounge furniture rests on the measured rug surface.
+Chapter clicks begin camera travel immediately. Default tour speed is 2x, with an adjustable, persistent slider. Lounge furniture rests on the measured rug surface.
 
 Click furniture to inspect an enlarged 3D model over the faded office. Includes rotation, keyboard selection, Escape to close and exact tour-position restoration. Cesto links to Studio TK; other pieces are labeled conceptual.
 

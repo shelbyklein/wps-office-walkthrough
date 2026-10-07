@@ -15,3 +15,5 @@ Chapter clicks begin camera travel immediately. Default tour speed is 2x, with a
 Click furniture to inspect an enlarged 3D model over the faded office. Includes rotation, keyboard selection, Escape to close and exact tour-position restoration. Cesto links to Studio TK; other pieces are labeled conceptual.
 
 When the tour is idle, the camera gently looks toward the mouse. Navigation recenters it; still-view and reduced-motion settings disable the effect.
+
+Room text transitions: outgoing copy fades 36px left over 260ms; incoming copy fades in from 28px right over 480ms. Room labels follow the same transition; speed controls stay steady. Rapid chapter changes cancel stale updates. Reduced-motion preference uses an immediate text replacement.
